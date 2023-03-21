@@ -11,6 +11,8 @@ gem 'webpacker', '~> 5.0'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.4', require: false
+gem 'semantic-ui-sass'
+gem 'jquery-rails'
 
 
 group :development, :test do
